@@ -30,7 +30,7 @@ gulp.task('nodemon', function (cb) {
 
 gulp.task('default', function () {
     console.log(process.env.NODE_ENV);
-    let env = process.env.NODE_ENV;
+    var env = process.env.NODE_ENV;
     if (!env) {
         env = 'development';
     }
