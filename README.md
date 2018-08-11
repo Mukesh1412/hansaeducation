@@ -44,8 +44,6 @@ $ npm run build
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
-### DEMO 
-# https://t0be74dtfh.execute-api.eu-central-1.amazonaws.com/production/charts
 
 ### Further help
 
